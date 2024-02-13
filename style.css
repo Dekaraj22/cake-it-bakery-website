@@ -1,0 +1,104 @@
+@media(min-width:1024px){
+.secondNav{
+    height: 50px;
+}
+.nav-text{
+    text-align: center;
+    position: relative;
+    bottom: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.active{
+    margin-left: 550px;
+}
+
+.navbar-brand{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    color: rgb(235, 4, 4);
+}
+.slider{
+    height: 600px;
+    width: 100%;
+    position: relative;
+    right: 550px;
+    bottom: 20px;
+}
+.one{
+    margin: 100px;
+    margin-left: 250px;
+    text-align: left;
+}   
+.two{
+   margin: 100px;
+   text-align: left;
+}
+
+.card{
+    margin-top: 100px ;
+    text-align: center;
+    
+}
+.quote{
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+.intro{
+    margin-top: 50px;
+    height: 100px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    
+}
+.buttons{
+    text-align: center;
+    margin-top: 20px;
+}
+}
+@media (max-width:1024px) {
+.secondNav{
+      height: 50px;
+}
+
+
+.buttons{
+    text-align: center;
+    height: 100px;
+    margin-bottom: 20x;
+    position: relative;
+    top: 100px;
+}
+.one{
+  text-align: center;
+  margin-left: 320px;
+    margin-top: 200px;
+}
+.two{
+  text-align: center;
+    margin-left: 320px;
+    margin-top: 100px;
+   
+}
+
+.quote{
+    margin-top: 80px;
+    text-align: center;
+}
+.intro{
+    margin-top: 10px ;
+    text-align: center;
+}
+.nav-text{
+    text-align: center;
+}
+.navbar-brand{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    color: rgb(235, 4, 4);
+}
+}
